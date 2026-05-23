@@ -38,4 +38,5 @@ clean:
 all: setup data train test
 
 2. Save the file and run **make all** in terminal.
-![1779559458441.png](assets/1779559458441.png)
+
+<img width="1125" height="565" alt="image" src="https://github.com/user-attachments/assets/93d1f06a-02e6-4df8-aeb7-bef6b1ef19db" />
