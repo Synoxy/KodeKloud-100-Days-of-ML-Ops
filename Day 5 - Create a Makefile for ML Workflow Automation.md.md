@@ -22,7 +22,7 @@ Makefile recipes must be indented with a real tab character, not spaces. Make re
 
 1. Navigate to make file and update as below:
 
-.PHONY: setup data train test clean all
+**.PHONY: setup data train test clean all**
 setup:
 	python3 -m venv mlops-venv && mlops-venv/bin/pip install -r requirements.txt
 data:
