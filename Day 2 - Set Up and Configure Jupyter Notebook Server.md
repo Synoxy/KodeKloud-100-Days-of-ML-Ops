@@ -1,4 +1,4 @@
-##### Problem Statement:
+🚨 **Problem Statement:**
 A teammate has configured a JupyterLab server for the xFusionCorp Industries data science team, but the server does not behave correctly. Inspect the configuration, diagnose the issues, and start the server.
 
 JupyterLab is already installed in the virtual environment at /root/code/.env. The team's configuration file is at /root/code/jupyter_lab_config.py and is visible in the file explorer.
@@ -11,7 +11,7 @@ For this to work, the running server must meet the following requirements:
 Open the configuration file, identify every setting that prevents the requirements above from being met, and correct it. Create any missing directories.
 Start JupyterLab from within the virtual environment using the corrected configuration.
 
-**Solution:**
+🛠️ **Solution:**
 1. Make below changes in `jupyter_lab_config.py` file:
 
 c.ServerApp.token = ''

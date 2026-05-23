@@ -1,4 +1,4 @@
-##### Problem Statement:
+🚨 **Problem Statement:**
 
 1. The xFusionCorp Industries ML team uses a Makefile to orchestrate common tasks—data processing, training, testing, and cleanup. A draft Makefile exists at /root/code/fraud-detection/Makefile, but make all does not complete successfully. Bring the Makefile in line with the team's standard.
 
@@ -18,7 +18,7 @@
 
 Makefile recipes must be indented with a real tab character, not spaces. Make rejects any recipe that is not tab-indented.
 
-**Solution:**
+🛠️ **Solution:**
 
 1. Navigate to make file and update as below:
 

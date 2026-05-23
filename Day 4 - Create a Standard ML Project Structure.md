@@ -1,4 +1,4 @@
-##### Problem Statement:
+🚨 **Problem Statement:**
 A colleague has started a new ML project at /root/code/fraud-detection/, but the layout does not match the xFusionCorp Industries standard. Bring the project in line with the team's conventions.
 
 Inspect the existing project at /root/code/fraud-detection/.
@@ -29,7 +29,7 @@ README.md must begin with the heading # fraud-detection.
 
 Review the existing project and correct everything that does not match the requirements above.
 
-**Solution:** 
+🛠️ **Solution:** 
 1. Create the folders **tests** and **configs** using **mkdir** command.
 2. Rename the folder names under **src** from **feature -> features** and **util -> utils**
 3. Update **Readme.md** files with the header: **# fraud-detection**.
