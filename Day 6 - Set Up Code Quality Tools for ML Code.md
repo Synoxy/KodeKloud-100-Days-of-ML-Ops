@@ -35,3 +35,4 @@ line-length = 120 **#Updated length to 120**
 - black --check src/
 
 You should see **All Checks Passed ✅** as below.
+<img width="1125" height="564" alt="image" src="https://github.com/user-attachments/assets/166e88bb-9ae7-425b-b9f4-5156d63f8ddf" />
