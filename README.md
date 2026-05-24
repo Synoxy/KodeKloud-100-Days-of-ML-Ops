@@ -1,6 +1,6 @@
 KodeKloud 100 Days of ML-Ops Task and Solution
 
-- [Day 1](Day 1 - Create a Python Virtual Environment for ML.md)
+- [Day 1](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/2fe328ff50a122e29623b79a5051344d7483a271/Day%201%20-%20Create%20a%20Python%20Virtual%20Environment%20for%20ML.md)
 - [Day 2](Day 2 - Set Up and Configure Jupyter Notebook Server.md)
 - [Day 3](Day 3 - Fix a Broken uv Lockfile Specification.md)
 - [Day 4](Day 4 - Create a Standard ML Project Structure.md)
