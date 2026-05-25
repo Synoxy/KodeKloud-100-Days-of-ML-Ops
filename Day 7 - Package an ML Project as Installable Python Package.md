@@ -41,4 +41,7 @@ The build package is already installed. Use python3 rather than python.
   where = ["src"]
 
 2. Go to the project folder and run: **python3 -m build**
-3. Build should be successful as per below screenshot: 
+3. Build should be successful as per below screenshot:
+
+<img width="1125" height="604" alt="image" src="https://github.com/user-attachments/assets/64a120de-5ebc-4556-a21c-445940225a9a" />
+
