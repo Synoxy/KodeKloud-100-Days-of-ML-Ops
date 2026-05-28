@@ -45,3 +45,6 @@ repos:
   - pre-commit run --all-files
 
 3. You should see below output:
+
+<img width="1125" height="563" alt="image" src="https://github.com/user-attachments/assets/f5bbcd58-47e5-4453-9714-8949274f1041" />
+
