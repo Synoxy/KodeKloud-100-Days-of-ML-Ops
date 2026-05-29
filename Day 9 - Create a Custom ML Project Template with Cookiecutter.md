@@ -47,11 +47,11 @@ tensorflow
 {% endif %}
 
 3. Update **Readme.md** as below: 
-
-# {{cookiecutter.project_name}}
-Created by {{ cookiecutter.author }}.
+- # {{cookiecutter.project_name}}
+- Created by {{ cookiecutter.author }}.
 
 4. Run the command: **cookiecutter /root/code/mlops-template/ -o /root/code/ --no-input project_name=churn-model ml_framework=sklearn**
 
 5. You should the folder structure created, updated Rreadme.md & requirements.txt files:
    
+<img width="1125" height="561" alt="image" src="https://github.com/user-attachments/assets/4f299783-ac98-4b47-a526-a828aae0074a" />
