@@ -9,4 +9,4 @@ KodeKloud 100 Days of ML-Ops Task and Solution
 - [Day 7 - Package an ML Project as Installable Python Package.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/aadce9ed29ccf95eeed489454fb3f329e57d4ab1/Day%207%20-%20Package%20an%20ML%20Project%20as%20Installable%20Python%20Package.md)
 - [Day 8 - Configure Pre-Commit Hooks for ML Repository](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/fa57e644540ecd40f0889d31b0638068a1676c12/Day%208%20-%20Configure%20Pre-Commit%20Hooks%20for%20ML%20Repository.md)
 - [Day 9 - Create a Custom ML Project Template with Cookiecutter](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/54468db44397b394a9fe35cce49c773360465aa1/Day%209%20-%20Create%20a%20Custom%20ML%20Project%20Template%20with%20Cookiecutter.md)
-- [Day 10 - Install and Initialize DVC in an ML Project]()
+- [Day 10 - Install and Initialize DVC in an ML Project](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/53b7495a6147cb0c4cdbaf44fa62c3899d03ddfb/Day%2010%20-%20Install%20and%20Initialize%20DVC%20in%20an%20ML%20Project.md)
