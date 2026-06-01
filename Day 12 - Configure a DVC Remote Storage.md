@@ -29,3 +29,6 @@ The xFusionCorp Industries ML team uses SeaweedFS as the shared S3-compatible ob
     secret_access_key = weedadmin123
 
 2. Run **dvc push** and you should get below response:
+
+<img width="1125" height="873" alt="image" src="https://github.com/user-attachments/assets/20de1107-29de-4af2-869b-ba02e4f90a25" />
+
