@@ -28,3 +28,6 @@ A new xFusionCorp Industries team member has cloned the fraud-detection reposito
     secret_access_key = weedadmin123 **#Add this line**
 
 2. Run **dvc pull** now and you should below output.
+
+<img width="1125" height="887" alt="image" src="https://github.com/user-attachments/assets/b65ba9ca-2c7b-4ecc-b985-77f7a672dcb6" />
+
