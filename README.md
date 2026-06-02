@@ -12,3 +12,4 @@ KodeKloud 100 Days of ML-Ops Task and Solution
 - [Day 10 - Install and Initialize DVC in an ML Project](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/53b7495a6147cb0c4cdbaf44fa62c3899d03ddfb/Day%2010%20-%20Install%20and%20Initialize%20DVC%20in%20an%20ML%20Project.md)
 - [Day 11 - Track a Dataset with DVC](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/89fc3ca8e5017bbee55c77a87bf7b69143bbb73b/Day%2011%20-%20Track%20a%20Dataset%20with%20DVC.md)
 - [Day 12 - Configure a DVC Remote Storage](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a4ca5bc8216391f2a07dd7e7e22e32b5f888b38c/Day%2012%20-%20Configure%20a%20DVC%20Remote%20Storage.md)
+- [Day 13 - Pull DVC-Tracked Data from Remote]()
