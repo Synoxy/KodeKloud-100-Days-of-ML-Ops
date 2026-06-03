@@ -37,4 +37,6 @@ stages:
 
 2. Run **dvc repro** followed by **dvc status**, the pipeline will be be built and you will see below output.
 
+<img width="621" height="490" alt="image" src="https://github.com/user-attachments/assets/e50f37ad-d414-4025-a569-68907f8fc2e0" />
+
 
