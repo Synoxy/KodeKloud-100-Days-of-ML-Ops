@@ -15,3 +15,5 @@ The DVC extension's PARAMS section under the DVC view will surface the values fr
 🛠️ **Solution:**
 1. Update **n_estimator** to **n_estimators** in **dvc.yaml** and run **dvc repro**.
 2. After dvc repro successfully runs, update **n_estimators** value to **200** and run **dvc repro** again.
+
+<img width="699" height="546" alt="image" src="https://github.com/user-attachments/assets/6e0ab300-9c5c-41af-b826-64c018439ba6" />
