@@ -31,12 +31,16 @@ This repository serves as a learning journal and reference guide covering the fu
 
 🚧 More days coming soon...
 
-📂 Repository Structure
+## 📂 Repository Structure
+```text
+.
 ├── Day 1 - Create a Python Virtual Environment for ML.md
 ├── Day 2 - Set Up and Configure Jupyter Notebook Server.md
 ├── Day 3 - Fix a Broken uv Lockfile Specification.md
+├── Day 4 - Create a Standard ML Project Structure.md
 ├── ...
 └── README.md
+```
 
 ⭐ Support the Project
 If you found this repository helpful:
