@@ -25,6 +25,7 @@ The build package is already installed. Use python3 rather than python.
 
 🛠️ **Solution:**
 1. Update the pyproject.toml file as below
+ ```text
   [project]
   name = "fraud_detection"
   version = "0.1.0" **#Update version to 0.1.0**
@@ -39,7 +40,7 @@ The build package is already installed. Use python3 rather than python.
   
   [tool.setuptools.packages.find]
   where = ["src"]
-
+```
 2. Go to the project folder and run: **python3 -m build**
 3. Build should be successful as per below screenshot:
 

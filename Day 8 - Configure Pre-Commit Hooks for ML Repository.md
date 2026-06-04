@@ -22,6 +22,8 @@ Tip: pre-commit autoupdate queries each referenced repository and rewrites the r
 
 🛠️ **Solution:**
 1. Update the .pre-commit-config.yaml file with below changes.
+
+```text 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v2.3.0
@@ -39,6 +41,7 @@ repos:
     rev: **26.5.1 #Remove v and update the version**
     hooks:
       - id: black
+```
 
 2. Navigate to project folder and run below commands:
   - pre-commit install

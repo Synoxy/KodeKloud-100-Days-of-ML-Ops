@@ -29,15 +29,17 @@ The corrected template must satisfy every one of the following:
 🛠️ **Solution:**
 
 1. Update **cookiecutter.json** as below:
+```text
 {
     "project_name": "my-ml-project",
     "author": "xFusionCorp",
     "python_version": "3.11",
     "ml_framework": ["sklearn","pytorch","tensorflow"]
 }
-
+```
 2. Update **requirements.txt** as below: 
 
+```text
 {% if cookiecutter.ml_framework == 'sklearn' %}
 scikit-learn
 {% elif cookiecutter.ml_framework == 'pytorch' %}
@@ -45,10 +47,13 @@ torch
 {% elif cookiecutter.ml_framework == 'tensorflow' %}
 tensorflow
 {% endif %}
+```
 
 3. Update **Readme.md** as below: 
+```text
 - # {{cookiecutter.project_name}}
 - Created by {{ cookiecutter.author }}.
+```
 
 4. Run the command: **cookiecutter /root/code/mlops-template/ -o /root/code/ --no-input project_name=churn-model ml_framework=sklearn**
 

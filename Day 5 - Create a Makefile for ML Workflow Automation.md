@@ -21,7 +21,7 @@ Makefile recipes must be indented with a real tab character, not spaces. Make re
 🛠️ **Solution:**
 
 1. Navigate to make file and update as below:
-
+```text
 **.PHONY: setup data train test clean all**
 setup:
 	python3 -m venv mlops-venv && mlops-venv/bin/pip install -r requirements.txt
@@ -36,6 +36,7 @@ clean:
 	rm -rf .pytest_cache
 	rm -rf models/*
 all: setup data train test
+```
 
 2. Save the file and run **make all** in terminal. You should get below response in terminal.
 

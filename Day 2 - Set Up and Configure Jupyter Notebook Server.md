@@ -13,13 +13,13 @@ Start JupyterLab from within the virtual environment using the corrected configu
 
 🛠️ **Solution:**
 1. Make below changes in `jupyter_lab_config.py` file:
-
+```text
 c.ServerApp.token = ''
 c.ServerApp.password = ''
 c.ServerApp.disable_check_xsrf = True
 c.ServerApp.notebook_dir = '/root/notebooks/'
 c.ServerApp.port = 8888
 c.ServerApp.ip = '0.0.0.0'
-
+```
 2. Activate the Virtual Environment: **source /root/code/ml-env/bin/activate**
 3. Run the jupyter notebook using: **jupyter lab --config=/root/code/jupyter_lab_config.py --allow-root**

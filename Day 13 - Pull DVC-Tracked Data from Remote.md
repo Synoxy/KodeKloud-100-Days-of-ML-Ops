@@ -18,6 +18,7 @@ A new xFusionCorp Industries team member has cloned the fraud-detection reposito
 
 🛠️ **Solution:**
 1. Update the config file as below:
+```text
 [core]
     remote = s3
 
@@ -26,7 +27,7 @@ A new xFusionCorp Industries team member has cloned the fraud-detection reposito
     endpointurl = http://localhost:8333
     access_key_id = weedadmin **#Add this line** 
     secret_access_key = weedadmin123 **#Add this line**
-
+```
 2. Run **dvc pull** now and you should below output.
 
 <img width="1125" height="887" alt="image" src="https://github.com/user-attachments/assets/b65ba9ca-2c7b-4ecc-b985-77f7a672dcb6" />

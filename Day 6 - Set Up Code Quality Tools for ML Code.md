@@ -16,7 +16,7 @@ ruff, black, and mypy are already installed.
 
 🛠️ **Solution:**
 1. Update **pyproject.toml** as below:
-
+```text
 [project]
 name = "fraud-detection"
 version = "0.1.0"
@@ -29,7 +29,7 @@ select = ["E", "F","W","I"]
 
 [tool.black]
 line-length = 120 **#Updated length to 120**
-
+```
 2. Run the below commands:
 - ruff check src/
 - black --check src/
