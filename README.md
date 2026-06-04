@@ -41,10 +41,10 @@ This repository serves as a learning journal and reference guide covering the fu
 ⭐ Support the Project
 If you found this repository helpful:
 
-⭐ Star the repository
-🍴 Fork it for your own learning journey
-👀 Follow my GitHub profile for more DevOps, Cloud, Kubernetes, and MLOps content
-Your support helps make this repository more visible to others in the community.
+- ⭐ Star the repository
+- 🍴 Fork it for your own learning journey
+- 👀 Follow my GitHub profile for more DevOps, Cloud, Kubernetes, and MLOps content
+- Your support helps make this repository more visible to others in the community.
 
 🤝 Contributions
 
