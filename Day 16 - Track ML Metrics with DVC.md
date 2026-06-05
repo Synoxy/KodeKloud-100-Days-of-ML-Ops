@@ -46,3 +46,5 @@ stages:
 ```
 2. Run **dvc repro** and then **dvc metrics show**.
 
+<img width="1077" height="857" alt="image" src="https://github.com/user-attachments/assets/46790fae-8eab-4c09-8e4e-1f4bb458ec3c" />
+
