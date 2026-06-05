@@ -28,6 +28,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 13 - Pull DVC-Tracked Data from Remote](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/8e0ff1d57eb2630326d5bae16fca68cf5b636881/Day%2013%20-%20Pull%20DVC-Tracked%20Data%20from%20Remote.md)
 - [Day 14 - Create a DVC Pipeline for Data Processing](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/3e6fee0bb767a2267805873b13392c02e420d28d/Day%2014%20-%20Create%20a%20DVC%20Pipeline%20for%20Data%20Processing.md)
 - [Day 15 - Parameterize a DVC Pipeline](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/c6dd5677923db9054f493741cb79feb027216cc5/Day%2015%20-%20Parameterize%20a%20DVC%20Pipeline.md)
+- [Day 16 - Track ML Metrics with DVC]()
 
 🚧 More days coming soon...
 
