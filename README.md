@@ -29,6 +29,8 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 14 - Create a DVC Pipeline for Data Processing](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/3e6fee0bb767a2267805873b13392c02e420d28d/Day%2014%20-%20Create%20a%20DVC%20Pipeline%20for%20Data%20Processing.md)
 - [Day 15 - Parameterize a DVC Pipeline](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/c6dd5677923db9054f493741cb79feb027216cc5/Day%2015%20-%20Parameterize%20a%20DVC%20Pipeline.md)
 - [Day 16 - Track ML Metrics with DVC](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/0d16538f25532bd3996e0a7e622d234b25d5b882/Day%2016%20-%20Track%20ML%20Metrics%20with%20DVC.md)
+- [Day 17 - Run and Compare DVC Experiments]()
+- [Day 18 - Version Datasets and Models Across Git Branches]()
 
 🚧 More days coming soon...
 
@@ -59,7 +61,7 @@ Feel free to open an Issue or submit a Pull Request.
 
 📈 Progress
 
-Current Status: Day 16 / 100 Completed
+Current Status: Day 17 / 100 Completed
 
 Let's continue the journey toward mastering MLOps! 🚀
 
