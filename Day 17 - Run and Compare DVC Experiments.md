@@ -35,5 +35,5 @@ dvc exp run -S n_estimators=500
 
 3. Apply the one with highest score, in this case its for **n_estimators=200**. Run below command.
 ```text
-**dvc exp apply 084e6f4**
+dvc exp apply 084e6f4
 ```
