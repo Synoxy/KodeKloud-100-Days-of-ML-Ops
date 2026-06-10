@@ -31,3 +31,4 @@ mlflow server \
   --allowed-hosts '*' &
 ```
 3. You should see something like below:
+<img width="1911" height="718" alt="image" src="https://github.com/user-attachments/assets/a1e9feae-cffa-4f7f-aeec-e690da7c02c7" />
