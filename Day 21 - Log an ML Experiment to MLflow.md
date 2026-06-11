@@ -33,6 +33,7 @@ mlflow.log_metric("f1_score",f1)
 mlflow.sklearn.log_model(model,"model")
 ```
 2. Run **python3 /root/code/log_experiment.py** and you should see below  output:
+<img width="1028" height="670" alt="image" src="https://github.com/user-attachments/assets/854d22da-b0b7-45ad-90b1-3d3421ab4857" />
 
 3. Click on **MLflow UI** on top and navigate to Default expriment --> Training runs and open the training run you just ran. You should see the params, metrics and model as below.
- 
+ <img width="1387" height="832" alt="image" src="https://github.com/user-attachments/assets/cdf0c0ea-283f-49f0-8d08-c758c8d53dd4" />
