@@ -33,7 +33,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 18 - Version Datasets and Models Across Git Branches](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/23376172519cb0c10219a1fcfbe7b1675fcf5348/Day%2018%20-%20Version%20Datasets%20and%20Models%20Across%20Git%20Branches.md)
 - [Day 19 - Build Complete DVC ML Pipeline with Remote Storage and Experiments](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/11af39742d4177b383e65149fe7f576c0e5edec0/Day%2019%20-%20Build%20Complete%20DVC%20ML%20Pipeline%20with%20Remote%20Storage%20and%20Experiments.md)
 - [Day 20 - Install and Start the MLflow Tracking Server](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f962038d453330def6499af1a2a37ff163f18963/Day%2020%20-%20Install%20and%20Start%20the%20MLflow%20Tracking%20Server.md)
-- [Day 21 - Log an ML Experiment to MLflow]()  
+- [Day 21 - Log an ML Experiment to MLflow](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/651772f5da4f340cd7e7dc050624ce143b1df675/Day%2021%20-%20Log%20an%20ML%20Experiment%20to%20MLflow.md)  
 
 🚧 More days coming soon...
 
