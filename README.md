@@ -54,13 +54,10 @@ If you found this repository helpful:
 
 - ⭐ Star the repository
 - 🍴 Fork it for your own learning journey
-- 👀 Follow my GitHub profile for more DevOps, Cloud, Kubernetes, and MLOps content
 - Your support helps make this repository more visible to others in the community.
 
 🤝 Contributions
-
 Suggestions, corrections, and improvements are always welcome.
-
 Feel free to open an Issue or submit a Pull Request.
 
 📈 Progress: Day 22 / 100 Completed
