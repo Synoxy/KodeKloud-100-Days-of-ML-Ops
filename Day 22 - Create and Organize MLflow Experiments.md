@@ -17,6 +17,13 @@ The result can be confirmed in the MLflow UI: both new experiments appear in the
 🛠️ **Solution:**
 1. Open the ML-UI by clicking the ML-flow button and Navigate to experiments.
 2. Click on create experiment on top right and provide the experiment name as: **fraud-prediction**.
+<img width="1125" height="394" alt="image" src="https://github.com/user-attachments/assets/291579b1-a51e-4592-8494-139f3ed938e7" />
+
 3. After the experiment is created it will open the newly created experiment, click on 3 dots and select edit description. Provide a meaninful description.
+<img width="1640" height="272" alt="image" src="https://github.com/user-attachments/assets/ee8dfd10-6297-4b20-a1cc-ba554a1d0a08" />
+
 4. Navigate back to experiments main page and click on add tags under tags and provide the tag with key: **team** and value: **ml-platform**.
+<img width="1125" height="397" alt="image" src="https://github.com/user-attachments/assets/edbd48a7-adc3-47c8-9f5c-7f0c10852575" />
+
 5. Repeat the same for other experiment.
+<img width="1125" height="298" alt="image" src="https://github.com/user-attachments/assets/d90d4598-5ee5-4a68-b69f-05379b921c4f" />
