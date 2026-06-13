@@ -13,7 +13,7 @@ A xFusionCorp Industries data scientist has accumulated ten runs in the fraud-de
 2. Navigate to Experiments and open the **fraud_detection** experiment and go to **Evaluation Runs**.
 <img width="1125" height="462" alt="image" src="https://github.com/user-attachments/assets/a7366534-77c9-49c9-ad86-791b084d7f8a" />
 3. Open the experiment with highest run
-4. Navigate to Overview and on bottom right you should see **Add tags**. Add the required tags as asked, for the one with highest f1_score add the key: review-status and value: shortlisted. Same for rejected ones. Refer: **Day 22 - Create and Organize MLflow Experiments** on how to add tag.
+4. Navigate to Overview and on bottom right you should see **Add tags** . Add the required tags as asked, for the one with highest f1_score add the key: review-status and value: shortlisted. Same for rejected ones. Refer: **Day 22 - Create and Organize MLflow Experiments** on how to add tag.
 <img width="1125" height="557" alt="image" src="https://github.com/user-attachments/assets/30131237-4cdc-44b6-ae3e-54cbbd3b4791" />
 5. Go back to Evaluation runs and refresh the page and group by **review-status**, you should see something like below.
 <img width="1125" height="608" alt="image" src="https://github.com/user-attachments/assets/526b2933-53ec-4465-9d4e-bc72b593097e" />
