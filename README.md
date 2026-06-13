@@ -35,6 +35,8 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 20 - Install and Start the MLflow Tracking Server](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f962038d453330def6499af1a2a37ff163f18963/Day%2020%20-%20Install%20and%20Start%20the%20MLflow%20Tracking%20Server.md)
 - [Day 21 - Log an ML Experiment to MLflow](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/651772f5da4f340cd7e7dc050624ce143b1df675/Day%2021%20-%20Log%20an%20ML%20Experiment%20to%20MLflow.md)  
 - [Day 22 - Create and Organize MLflow Experiments](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/6e9e74300a6d23b84ec087c4cdab1e083f1ca6b9/Day%2022%20-%20Create%20and%20Organize%20MLflow%20Experiments.md)
+- [Day 23 - Search and Query MLflow Runs]()
+
 
 🚧 More days coming soon...
 
@@ -60,4 +62,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 22 / 100 Completed
+📈 Progress: Day 23 / 100 Completed
