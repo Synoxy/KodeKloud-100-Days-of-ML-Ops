@@ -27,3 +27,5 @@ mlflow.sklearn.autolog()
 mlflow.set_experiment("autolog-demo")
 ```
 3. Run: ```python3 /root/code/autolog_experiment.py``` and you should see below output.
+<img width="1057" height="742" alt="image" src="https://github.com/user-attachments/assets/86fcc179-1185-454f-8800-14b075e1d6e3" />
+
