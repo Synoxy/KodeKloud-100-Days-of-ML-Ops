@@ -36,7 +36,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 21 - Log an ML Experiment to MLflow](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/651772f5da4f340cd7e7dc050624ce143b1df675/Day%2021%20-%20Log%20an%20ML%20Experiment%20to%20MLflow.md)  
 - [Day 22 - Create and Organize MLflow Experiments](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/6e9e74300a6d23b84ec087c4cdab1e083f1ca6b9/Day%2022%20-%20Create%20and%20Organize%20MLflow%20Experiments.md)
 - [Day 23 - Search and Query MLflow Runs](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/406f0fe849ef81d1e48b3454c86b2a25b94f218c/Day%2023%20-%20Search%20and%20Query%20MLflow%20Runs.md)
-
+- [Day 24 - Enable MLflow Autologging]()
 
 🚧 More days coming soon...
 
