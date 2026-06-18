@@ -37,8 +37,8 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 22 - Create and Organize MLflow Experiments](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/6e9e74300a6d23b84ec087c4cdab1e083f1ca6b9/Day%2022%20-%20Create%20and%20Organize%20MLflow%20Experiments.md)
 - [Day 23 - Search and Query MLflow Runs](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/406f0fe849ef81d1e48b3454c86b2a25b94f218c/Day%2023%20-%20Search%20and%20Query%20MLflow%20Runs.md)
 - [Day 24 - Enable MLflow Autologging](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f5d1d770f8bd1271b58fa7192a3728a5ef1ba4c8/Day%2024%20-%20Enable%20MLflow%20Autologging.md)
-- [Day 25 - Register, Version, and Manage Model Lifecycle]()
-- [Day 26 - Compare Model Runs and Select the Best]()
+- [Day 25 - Register, Version, and Manage Model Lifecycle](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/d1765b01d7a5f67b7a44d90e7ef2fc396e5111ef/Day%2025%20-%20Register%2C%20Version%2C%20and%20Manage%20Model%20Lifecycle.md)
+- [Day 26 - Compare Model Runs and Select the Best](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/d1765b01d7a5f67b7a44d90e7ef2fc396e5111ef/Day%2026%20-%20Compare%20Model%20Runs%20and%20Select%20the%20Best.md)
 
 🚧 More days coming soon...
 
@@ -64,4 +64,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 24 / 100 Completed
+📈 Progress: Day 26 / 100 Completed
