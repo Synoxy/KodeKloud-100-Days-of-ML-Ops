@@ -15,9 +15,23 @@ The result can be confirmed by opening Model registry → fraud-detector in the 
 
 🛠️ **Solution:**
 1. Navigate to Model Training using mlflow UI button.
-2. Go to Runs under Model Training
-3. Open the baseline, click on model and make below changes
+2. Go to Runs under Model Training.
+<img width="1125" height="294" alt="image" src="https://github.com/user-attachments/assets/c2d96e9a-8540-481c-aab2-def7822384d5" />
+
+3. Open the baseline, click on model and make below changes.
+<img width="1125" height="477" alt="image" src="https://github.com/user-attachments/assets/5aa88a43-ce62-4abc-946a-2484f8306f8d" />
+
 4. Add the descripton as: *"Fraud detection model for xFusionCorp transactions"*.
+<img width="1125" height="313" alt="image" src="https://github.com/user-attachments/assets/45c06bc5-c6b4-41c7-9f7c-b235ee0702c7" />
+
 5. Click on Register model --> Add new model. Give the model name as: *fraud-detector*.
+<img width="1125" height="435" alt="image" src="https://github.com/user-attachments/assets/de681bee-e1d6-4022-a6a0-a20220d2afff" />
+
 6. Click on Register and navigate to the model and Add alias as **challenger** for Version 1.
+<img width="1125" height="524" alt="image" src="https://github.com/user-attachments/assets/9be6865d-e1ff-4c31-82f5-f97a36c896ef" />
+
 7. Perfom the same actions for improved run and Add alias as champion for version 2. For improved select the same model while registering the model.
+
+<img width="1125" height="405" alt="image" src="https://github.com/user-attachments/assets/bbc708e0-4bec-4f22-92fe-5518e4b5769e" />
+<img width="864" height="525" alt="image" src="https://github.com/user-attachments/assets/8db76097-8b4d-46ff-9cc8-afc96a19f393" />
+
