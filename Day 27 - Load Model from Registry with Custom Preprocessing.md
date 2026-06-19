@@ -32,4 +32,5 @@ INPUTS_DF.to_csv(OUTPUT_CSV, index=False)
 ```
 3. Run the command: 
 ```python3 /root/code/predict_with_preprocessing.py```
-4. Verify **prediction.csv**, it should have 10 values. 
+4. Verify **prediction.csv**, it should have 10 values.
+<img width="986" height="557" alt="image" src="https://github.com/user-attachments/assets/e895ea9d-17e6-4db6-a2d8-e98658534818" />
