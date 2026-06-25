@@ -24,11 +24,10 @@ The xFusionCorp Industries ML platform team packages their training runs as MLfl
 name: trainer
 
 entry_points:
-```
+```text
   main:
     parameters: {}
-    command: "python train.py"
-```  
+    command: "python train.py" 
   train:
     parameters:
       n_estimators:
@@ -49,7 +48,7 @@ entry_points:
       --max_depth {max_depth}
       --test_size {test_size}
       --random_seed {random_seed}
-
+```
 2. Run the commands: ```mlflow run . -e train --env-manager=local``` & ```mlflow run . -e train -P n_estimators=200 -P max_depth=10 --env-manager=local```
 
 3. Open the ML flow UI and navigate to Training Runs, you should see below.
