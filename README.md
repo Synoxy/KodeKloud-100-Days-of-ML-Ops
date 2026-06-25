@@ -40,7 +40,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 25 - Register, Version, and Manage Model Lifecycle](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/d1765b01d7a5f67b7a44d90e7ef2fc396e5111ef/Day%2025%20-%20Register%2C%20Version%2C%20and%20Manage%20Model%20Lifecycle.md)
 - [Day 26 - Compare Model Runs and Select the Best](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/d1765b01d7a5f67b7a44d90e7ef2fc396e5111ef/Day%2026%20-%20Compare%20Model%20Runs%20and%20Select%20the%20Best.md)
 - [Day 27 - Load Model from Registry with Custom Preprocessing](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/87a037e3c5c4e7edb2550743aeaf3b2d796a8544/Day%2027%20-%20Load%20Model%20from%20Registry%20with%20Custom%20Preprocessing.md)
-- [Day 28 - Fix a Broken MLflow Project and Re-Run It]()
+- [Day 28 - Fix a Broken MLflow Project and Re-Run It](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/6634997d23b58cf511966178ffdfdcd8fce5ebac/Day%2028%20-%20Fix%20a%20Broken%20MLflow%20Project%20and%20Re-Run%20It.md)
 
 🚧 More days coming soon...
 
