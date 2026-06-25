@@ -49,5 +49,8 @@ entry_points:
       --max_depth {max_depth}
       --test_size {test_size}
       --random_seed {random_seed}
+
 2. Run the commands: ```mlflow run . -e train --env-manager=local``` & ```mlflow run . -e train -P n_estimators=200 -P max_depth=10 --env-manager=local```
+
 3. Open the ML flow UI and navigate to Training Runs, you should see below.
+<img width="1907" height="611" alt="image" src="https://github.com/user-attachments/assets/ca02acc7-5ebe-47fe-98c5-dbdba784caf6" />
