@@ -24,7 +24,7 @@ The xFusionCorp Industries ML platform team packages their training runs as MLfl
 name: trainer
 
 entry_points:
-```text
+```
   main:
     parameters: {}
     command: "python train.py"
