@@ -44,7 +44,7 @@ entry_points:
         default: 42
     command: >
       python train.py
-   ```--n_estimators {n_estimators}```
+      --n_estimators {n_estimators}
       --max_depth {max_depth}
       --test_size {test_size}
       --random_seed {random_seed}
