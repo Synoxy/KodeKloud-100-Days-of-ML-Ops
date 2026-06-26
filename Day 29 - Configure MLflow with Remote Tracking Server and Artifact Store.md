@@ -31,8 +31,13 @@ PostgreSQL listens on port 5432 with a binary protocol — it is not reachable f
 1. Add ```export MLFLOW_S3_ENDPOINT_URL=http://localhost:8333``` in **restart-mlflow.sh**.
 2. Run below commands:
 ```text   
-   - bash /root/code/restart-mlflow.sh
-   - python3 /root/code/log_test_run.py 
+bash /root/code/restart-mlflow.sh
+```
+```text
+python3 /root/code/log_test_run.py 
 ```
 3. Open Seaweed UI and navigate to **/buckets/mlflow-artifacts/** and you should see a folder inside.
+<img width="1536" height="377" alt="image" src="https://github.com/user-attachments/assets/4407edf5-f157-440f-87e2-9691bbca1ca0" />
+
 4. Open Ml-flow UI and navigate to **test-remote** experiments and check under **Training runs**.
+<img width="1887" height="587" alt="image" src="https://github.com/user-attachments/assets/70e1bf99-3ed2-4a6a-8231-a9302029ee64" />
