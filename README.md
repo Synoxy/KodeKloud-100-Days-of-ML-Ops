@@ -43,7 +43,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 28 - Fix a Broken MLflow Project and Re-Run It](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/6634997d23b58cf511966178ffdfdcd8fce5ebac/Day%2028%20-%20Fix%20a%20Broken%20MLflow%20Project%20and%20Re-Run%20It.md)
 - [Day 29 - Configure MLflow with Remote Tracking Server and Artifact Store](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/93152e142aff1ee045b386cdb3c9581128cd019a/Day%2029%20-%20Configure%20MLflow%20with%20Remote%20Tracking%20Server%20and%20Artifact%20Store.md)
 - [Day 30 - End-to-End MLflow Lifecycle - Train, Register, Serve, Monitor]()
-
+ 
 🚧 More days coming soon...
 
 ## 📂 Repository Structure
