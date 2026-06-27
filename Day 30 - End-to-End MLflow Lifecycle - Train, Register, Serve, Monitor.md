@@ -24,6 +24,7 @@ export MLFLOW_TRACKING_URI=http://localhost:5000
 ```text
 mlflow models serve -m "models:/fraud-detector-v2@champion" --env-manager=local -p 5001
 ```
+<img width="1125" height="856" alt="image" src="https://github.com/user-attachments/assets/cd2f7d77-f857-40af-bdbc-fb49a30429e4" />
 
 3. Create **monitor.sh** and run it. 
 ```text
@@ -36,3 +37,4 @@ fi
 echo "unhealthy"
 exit 1
 ```
+<img width="1080" height="826" alt="image" src="https://github.com/user-attachments/assets/8095b027-4055-4352-a014-eccf08fc946d" />
