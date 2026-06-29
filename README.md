@@ -44,6 +44,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 29 - Configure MLflow with Remote Tracking Server and Artifact Store](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/93152e142aff1ee045b386cdb3c9581128cd019a/Day%2029%20-%20Configure%20MLflow%20with%20Remote%20Tracking%20Server%20and%20Artifact%20Store.md)
 - [Day 30 - End-to-End MLflow Lifecycle - Train, Register, Serve, Monitor](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a3a2d344f1c5cb921f16e2ae5fe43d6973726d68/Day%2030%20-%20End-to-End%20MLflow%20Lifecycle%20-%20Train%2C%20Register%2C%20Serve%2C%20Monitor.md)
 - [Day 31 - Train a Scikit-Learn Model with Reproducible Script](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/247ab1c59e2c790477249f747a5d39b139027611/Day%2031%20-%20Train%20a%20Scikit-Learn%20Model%20with%20Reproducible%20Script.md)
+- [Day 32 - Manage Training Configuration with YAML]()
  
 🚧 More days coming soon...
 
