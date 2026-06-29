@@ -43,8 +43,8 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 28 - Fix a Broken MLflow Project and Re-Run It](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/6634997d23b58cf511966178ffdfdcd8fce5ebac/Day%2028%20-%20Fix%20a%20Broken%20MLflow%20Project%20and%20Re-Run%20It.md)
 - [Day 29 - Configure MLflow with Remote Tracking Server and Artifact Store](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/93152e142aff1ee045b386cdb3c9581128cd019a/Day%2029%20-%20Configure%20MLflow%20with%20Remote%20Tracking%20Server%20and%20Artifact%20Store.md)
 - [Day 30 - End-to-End MLflow Lifecycle - Train, Register, Serve, Monitor](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a3a2d344f1c5cb921f16e2ae5fe43d6973726d68/Day%2030%20-%20End-to-End%20MLflow%20Lifecycle%20-%20Train%2C%20Register%2C%20Serve%2C%20Monitor.md)
-- [Day 31 - Train a Scikit-Learn Model with Reproducible Script](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/247ab1c59e2c790477249f747a5d39b139027611/Day%2031%20-%20Train%20a%20Scikit-Learn%20Model%20with%20Reproducible%20Script.md)
-- [Day 32 - Manage Training Configuration with YAML]()
+- [Day 31 - Train a Scikit-Learn Model with Reproducible Script](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/ba2ece7bee2adf7bdc26d13b0654cb7e32f05b2b/Day%2031%20-%20Train%20a%20Scikit-Learn%20Model%20with%20Reproducible%20Script.md)
+- [Day 32 - Manage Training Configuration with YAML](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a71256f92671597ad7a467b908692be68377dcd2/Day%2032%20-%20Manage%20Training%20Configuration%20with%20YAML.md)
  
 🚧 More days coming soon...
 
@@ -70,4 +70,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 31 / 100 Completed
+📈 Progress: Day 32 / 100 Completed
