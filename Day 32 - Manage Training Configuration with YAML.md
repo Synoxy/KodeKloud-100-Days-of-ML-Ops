@@ -34,3 +34,4 @@ Only train.py needs to change. The probe, the dataset, and the MLflow wiring are
     RandomForestClassifier(n_estimators=100, max_depth=5,random_state=RANDOM_STATE)
     ```
 2. Run: ```sh check_determinism.sh``` and you should see below output.
+<img width="1077" height="836" alt="image" src="https://github.com/user-attachments/assets/762538dd-ca63-471b-99dc-25e090ebc8fc" />
