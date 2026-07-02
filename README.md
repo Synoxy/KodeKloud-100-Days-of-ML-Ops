@@ -45,6 +45,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 30 - End-to-End MLflow Lifecycle - Train, Register, Serve, Monitor](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a3a2d344f1c5cb921f16e2ae5fe43d6973726d68/Day%2030%20-%20End-to-End%20MLflow%20Lifecycle%20-%20Train%2C%20Register%2C%20Serve%2C%20Monitor.md)
 - [Day 31 - Train a Scikit-Learn Model with Reproducible Script](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/ba2ece7bee2adf7bdc26d13b0654cb7e32f05b2b/Day%2031%20-%20Train%20a%20Scikit-Learn%20Model%20with%20Reproducible%20Script.md)
 - [Day 32 - Manage Training Configuration with YAML](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a71256f92671597ad7a467b908692be68377dcd2/Day%2032%20-%20Manage%20Training%20Configuration%20with%20YAML.md)
+- [Day 33 - Evaluate a Trained Model and Generate Classification Report]()
  
 🚧 More days coming soon...
 
