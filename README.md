@@ -46,7 +46,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 31 - Train a Scikit-Learn Model with Reproducible Script](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/ba2ece7bee2adf7bdc26d13b0654cb7e32f05b2b/Day%2031%20-%20Train%20a%20Scikit-Learn%20Model%20with%20Reproducible%20Script.md)
 - [Day 32 - Manage Training Configuration with YAML](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a71256f92671597ad7a467b908692be68377dcd2/Day%2032%20-%20Manage%20Training%20Configuration%20with%20YAML.md)
 - [Day 33 - Evaluate a Trained Model and Generate Classification Report](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/19fc96584c8dea7f05df9d01c8a96cfb583e3ea3/Day%2033%20-%20Evaluate%20a%20Trained%20Model%20and%20Generate%20Classification%20Report.md)
-- [Day 34 - Implement Cross-Validation for Model Selection]()
+- [Day 34 - Implement Cross-Validation for Model Selection](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/b5503f6785cf0f52c7b2cb9b12aac4e174a836af/Day%2034%20-%20Implement%20Cross-Validation%20for%20Model%20Selection.md)
  
 🚧 More days coming soon...
 
