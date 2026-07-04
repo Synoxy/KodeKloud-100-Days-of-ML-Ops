@@ -17,16 +17,32 @@ jobs:
         run: | 
           echo "Checking push events"
           FILES=$(git diff --name-only --diff-filter=A ${{ github.event.before }} ${{ github.event.after }})
+          README_UPDATED=false
           if [ -z "$FILES" ]; then
             echo "No newly added files found in this push."
+            exit 0
           else
             echo "🚀 NEWLY ADDED FILES DETECTED:"
             echo "$FILES"
             echo "$FILES" | while read -r file; do
               # URL-encode spaces to %20 for a valid clickable link
-              ENCODED_FILE=$(echo "$file" | sed 's/ /%20/g')
-              PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$ENCODED_FILE"
-              echo "File: $file"
-              echo "Permalink: $PERMALINK"
+              if [[ "$file" =~ ^Day\ [0-9]+.*\.md$ ]]; then
+                DAY_NUM=$(echo "$file" | grep -oE 'Day [0-9]+' | awk '{print $2}')
+                ENCODED_FILE=$(echo "$file" | sed 's/ /%20/g')
+                PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$ENCODED_FILE"
+                NEW_LINK="- [$file]($PERMALINK)"
+                sed -i "s/📈 Progress: Day [0-9]* \/ 100 Completed/📈 Progress: Day $DAY_NUM \/ 100 Completed/g" README.md
+                sed -i "\|🚧 More days coming soon...|i $NEW_LINK" README.md
+                README_UPDATED=true
+              fi
             done
           fi
+      - name: Commit and Push changes
+        if: env.README_UPDATED == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add README.md
+          git commit -m "chore: auto-update README progress tracking [skip ci]"
+          git push origin master
