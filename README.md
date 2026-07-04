@@ -48,7 +48,6 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 33 - Evaluate a Trained Model and Generate Classification Report](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/19fc96584c8dea7f05df9d01c8a96cfb583e3ea3/Day%2033%20-%20Evaluate%20a%20Trained%20Model%20and%20Generate%20Classification%20Report.md)
 - [Day 34 - Implement Cross-Validation for Model Selection](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/b5503f6785cf0f52c7b2cb9b12aac4e174a836af/Day%2034%20-%20Implement%20Cross-Validation%20for%20Model%20Selection.md)
 - [Day 35 - Hyperparameter Tuning with Optuna](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/68ec3536f346603042be59006fb418a68c2fe6b9/Day%2035%20-%20Hyperparameter%20Tuning%20with%20Optuna.md)
-- [Day 36 - Dhawal.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/63f92ee32a7732e88e8eb6e2ca3f8c86f9b933c0/Day%2036%20-%20Dhawal.md)
 
 🚧 More days coming soon...
 
