@@ -21,6 +21,7 @@ jobs:
             echo "No newly added files found in this push."
           else
             echo "🚀 NEWLY ADDED FILES DETECTED:"
+            echo "$FILES"
             for file in $FILES; do
               PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$file"
               echo "File: $file"
