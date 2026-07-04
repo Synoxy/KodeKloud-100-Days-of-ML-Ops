@@ -31,18 +31,22 @@ jobs:
                 ENCODED_FILE=$(echo "$file" | sed 's/ /%20/g')
                 PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$ENCODED_FILE"
                 NEW_LINK="- [$file]($PERMALINK)"
+                echo "$NEW_LINK"
                 sed -i "s/📈 Progress: Day [0-9]* \/ 100 Completed/📈 Progress: Day $DAY_NUM \/ 100 Completed/g" README.md
                 sed -i "\|🚧 More days coming soon...|i $NEW_LINK" README.md
                 README_UPDATED=true
+                echo "✅ README.md updated with new file: $file"
               fi
             done
           fi
       - name: Commit and Push changes
         if: env.README_UPDATED == 'true'
         run: |
+          echo "Committing and pushing changes to README.md"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
           git add README.md
           git commit -m "chore: auto-update README progress tracking [skip ci]"
           git push origin master
+          echo "✅ Changes pushed to README.md"
