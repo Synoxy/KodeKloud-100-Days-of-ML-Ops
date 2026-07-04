@@ -27,6 +27,9 @@ jobs:
             echo "🚀 NEWLY ADDED FILES DETECTED:"
             echo "$FILES"
             echo "$FILES" | while read -r file; do
+              if [ ! -f "$file" ]; then
+                continue
+              fi
               # URL-encode spaces to %20 for a valid clickable link
               if [[ "$file" =~ ^Day\ [0-9]+.*\.md$ ]]; then
                 DAY_NUM=$(echo "$file" | grep -oE 'Day [0-9]+' | awk '{print $2}')
@@ -35,7 +38,7 @@ jobs:
                 NEW_LINK="- [$file]($PERMALINK)"
                 echo "$NEW_LINK"
                 sed -i "s/📈 Progress: Day [0-9]* \/ 100 Completed/📈 Progress: Day $DAY_NUM \/ 100 Completed/g" README.md
-                sed -i "\|🚧 More days coming soon...|i $NEW_LINK" README.md
+                sed -i "\|🚧 More days coming soon...|i $NEW_LINK\n" README.md
                 README_UPDATED=true
                 echo "✅ README.md updated with new file: $file"
                 echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
