@@ -38,9 +38,9 @@ jobs:
                 sed -i "\|🚧 More days coming soon...|i $NEW_LINK" README.md
                 README_UPDATED=true
                 echo "✅ README.md updated with new file: $file"
+                echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
               fi
             done
-            echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
           fi
       - name: Commit and Push changes
         if: env.README_UPDATED == 'true'
