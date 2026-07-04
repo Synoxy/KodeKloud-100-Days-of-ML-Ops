@@ -22,8 +22,10 @@ jobs:
           else
             echo "🚀 NEWLY ADDED FILES DETECTED:"
             echo "$FILES"
-            for file in $FILES; do
-              PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$file"
+            echo "$FILES" | while read -r file; do
+              # URL-encode spaces to %20 for a valid clickable link
+              ENCODED_FILE=$(echo "$file" | sed 's/ /%20/g')
+              PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$ENCODED_FILE"
               echo "File: $file"
               echo "Permalink: $PERMALINK"
             done
