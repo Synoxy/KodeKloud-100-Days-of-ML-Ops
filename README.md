@@ -50,6 +50,8 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 35 - Hyperparameter Tuning with Optuna](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/68ec3536f346603042be59006fb418a68c2fe6b9/Day%2035%20-%20Hyperparameter%20Tuning%20with%20Optuna.md)
 - [Day 36 - Optuna.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/9d9b95ed079feeb0627c891a43aa68dcb0ce7c5a/Day%2036%20-%20Optuna.md)
 
+- [Day 37 - Dhawal.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/cd9c39a836cfaca7ac6ba289b141193c9e744103/Day%2037%20-%20Dhawal.md)
+
 🚧 More days coming soon...
 
 ## 📂 Repository Structure
@@ -74,4 +76,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 36 / 100 Completed
+📈 Progress: Day 37 / 100 Completed
