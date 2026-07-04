@@ -47,6 +47,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 32 - Manage Training Configuration with YAML](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a71256f92671597ad7a467b908692be68377dcd2/Day%2032%20-%20Manage%20Training%20Configuration%20with%20YAML.md)
 - [Day 33 - Evaluate a Trained Model and Generate Classification Report](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/19fc96584c8dea7f05df9d01c8a96cfb583e3ea3/Day%2033%20-%20Evaluate%20a%20Trained%20Model%20and%20Generate%20Classification%20Report.md)
 - [Day 34 - Implement Cross-Validation for Model Selection](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/b5503f6785cf0f52c7b2cb9b12aac4e174a836af/Day%2034%20-%20Implement%20Cross-Validation%20for%20Model%20Selection.md)
+- [Day 35 - Hyperparameter Tuning with Optuna]()
  
 🚧 More days coming soon...
 
@@ -72,4 +73,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 34 / 100 Completed
+📈 Progress: Day 35 / 100 Completed
