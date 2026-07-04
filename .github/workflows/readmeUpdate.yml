@@ -25,6 +25,5 @@ jobs:
               PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$file"
               echo "File: $file"
               echo "Permalink: $PERMALINK"
-              echo "----------------------------------------"
             done
           fi
