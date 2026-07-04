@@ -37,7 +37,7 @@ jobs:
                 PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$ENCODED_FILE"
                 NEW_LINK="- [$file]($PERMALINK)"
                 echo "$NEW_LINK"
-                sed -i "s|🚧 More days coming soon...|$NEW_LINK\n\n🚧 More days coming soon...|g" README.md
+                sed -i -z "s|\n\n\s*🚧 More days coming soon...|\n$NEW_LINK\n\n🚧 More days coming soon...|g" README.md
                 sed -i "s/📈 Progress: Day [0-9]* \/ 100 Completed/📈 Progress: Day $DAY_NUM \/ 100 Completed/g" README.md
                 README_UPDATED=true
                 echo "✅ README.md updated with new file: $file"
