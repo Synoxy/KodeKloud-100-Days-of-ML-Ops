@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - master
+permissions:
+  contents: write
 jobs:
   detect-files:
     runs-on: ubuntu-latest
@@ -38,6 +40,7 @@ jobs:
                 echo "✅ README.md updated with new file: $file"
               fi
             done
+            echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
           fi
       - name: Commit and Push changes
         if: env.README_UPDATED == 'true'
