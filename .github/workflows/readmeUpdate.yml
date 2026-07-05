@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'Day [0-9]*.md'        # ONLY trigger if a new Day markdown file is pushed
+      - '!README.md'           # NEVER trigger if the change was just updating the README.md
+      - '!.github/workflows/**' # NEVER trigger if you are just modifying workflow files
 permissions:
   contents: write
 jobs:
