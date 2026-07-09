@@ -51,6 +51,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 36 - Automated Model Selection with FLAML AutoML.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/83087131fafec8d2befe0389b6444141e42acb3d/Day%2036%20-%20Automated%20Model%20Selection%20with%20FLAML%20AutoML.md)
 - [Day 37 - Distributed Model Training with Joblib Parallelization.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/cce2b46923d140f0a7df11fa6bdb5d5657a0399b/Day%2037%20-%20Distributed%20Model%20Training%20with%20Joblib%20Parallelization.md)
 - [Day 38 - Build Modular Training Pipeline with Config-Driven Stages.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7b07fb6a7e004c7f890e289f65766496320214f4/Day%2038%20-%20Build%20Modular%20Training%20Pipeline%20with%20Config-Driven%20Stages.md)
+- [Day 39 - Train a PyTorch Model with GPU Support and Checkpointing.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/3f89952fe9e7ebf2c53986345957e3c0b5215797/Day%2039%20-%20Train%20a%20PyTorch%20Model%20with%20GPU%20Support%20and%20Checkpointing.md)
 
 🚧 More days coming soon...
 
@@ -76,4 +77,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 38 / 100 Completed
+📈 Progress: Day 39 / 100 Completed
