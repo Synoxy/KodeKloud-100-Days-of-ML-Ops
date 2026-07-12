@@ -53,6 +53,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 38 - Build Modular Training Pipeline with Config-Driven Stages.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7b07fb6a7e004c7f890e289f65766496320214f4/Day%2038%20-%20Build%20Modular%20Training%20Pipeline%20with%20Config-Driven%20Stages.md)
 - [Day 39 - Train a PyTorch Model with GPU Support and Checkpointing.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/3f89952fe9e7ebf2c53986345957e3c0b5215797/Day%2039%20-%20Train%20a%20PyTorch%20Model%20with%20GPU%20Support%20and%20Checkpointing.md)
 - [Day 40 - Fix and Complete a Five-Stage Training Capstone.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/461d1f881dcfb83fc7bc19358bf6104e997a00da/Day%2040%20-%20Fix%20and%20Complete%20a%20Five-Stage%20Training%20Capstone.md)
+- [Day 41 - Scaffold a Feast Feature Repository and Build a Training Set.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/50ef9099df300488b51e252210dbc09a9fd7c357/Day%2041%20-%20Scaffold%20a%20Feast%20Feature%20Repository%20and%20Build%20a%20Training%20Set.md)
 
 🚧 More days coming soon...
 
@@ -78,4 +79,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 40 / 100 Completed
+📈 Progress: Day 41 / 100 Completed
