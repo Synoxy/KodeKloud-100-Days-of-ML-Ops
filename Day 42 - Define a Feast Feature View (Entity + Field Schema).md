@@ -28,6 +28,3 @@ schema=[
     ]
 ```
 3. Navigate to feature_repo in fraud_detection module and run ```feast apply```
-4. You should below response in the terminal.
-
-![alt text](image.png)
