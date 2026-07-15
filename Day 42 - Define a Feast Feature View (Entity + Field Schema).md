@@ -17,7 +17,6 @@ The xFusionCorp Industries ML platform team keeps the fraud-detection feature de
 The Feast UI's Entities and Feature Views tabs surface the applied values directly—the current (draft) values are visible there so the required change is easy to eyeball against the task's end-state.
 
 🛠️ **Solution:**
-
 1. Update the code for customer entity in the registry with ```join_keys=["customer_id"]```.
 2. Update the schema in TODO 2:
 ```text
