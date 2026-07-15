@@ -34,3 +34,4 @@ result = store.get_online_features(
 ).to_dict()
 ```
 3. Run ```./materialize.sh``` followed by ```python3 fetch_features.py```.
+<img width="1002" height="651" alt="image" src="https://github.com/user-attachments/assets/a74c51ae-d955-48c2-a985-010893a350a0" />
