@@ -13,14 +13,26 @@ The xFusionCorp Industries ML platform team requires that all credentials necess
 
 🛠️ **Solution:**
 1. Open the ```vault UI``` from the terminal and use the token from ```vault-token``` file to login.
+<img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/b40e63eb-c265-42d2-80c0-982920e9ab64" />
+
 2. Open the terminal on top right and use the below command to create the secret engine.
 ```text
 write sys/mounts/secret type=kv options=version=2
 ```
+<img width="975" height="432" alt="image" src="https://github.com/user-attachments/assets/ddf6ff83-4c5e-4d10-ae7d-7e14e94d0d3d" />
+
 3. Navigate to secrets and open the secret named ```secret```.
+<img width="975" height="421" alt="image" src="https://github.com/user-attachments/assets/c92eb394-9459-4832-9b71-cf20e5af4ac9" />
+
 4. Click on ```Create secret``` and fill the below details as below. Save it.
+<img width="975" height="320" alt="image" src="https://github.com/user-attachments/assets/3627a950-bc84-4fc4-86d0-59536a3be57c" />
+<img width="975" height="466" alt="image" src="https://github.com/user-attachments/assets/c2a00afe-8c28-4d44-824f-6780ba901c1b" />
+
 5. Open the terminal again and run below command to see if secret was created successfully.
 ```text
 kv-get secret/mlflow
 ```
+<img width="975" height="367" alt="image" src="https://github.com/user-attachments/assets/c2a0823e-19b6-4d9f-bfd5-18f0efcbea22" />
+
 6. Open the ```Mlflow UI``` and verify if accessible.
+<img width="975" height="534" alt="image" src="https://github.com/user-attachments/assets/b0aee598-05b6-4b71-b666-a80d52e2d560" />
