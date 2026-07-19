@@ -18,9 +18,24 @@ Your task is to correct the mlflow-reader policy to ensure it provides read acce
 
 🛠️ **Solution:**
 1. Open the Vault using the token provided.Navigate to ```Access Control``` --> ```Authentication Methods``` and click on ```Enable New Method```.
-2. Select Auth method as ```AppRole``` and click on save without making changes. Ensure the flow is ```approle```.
+<img width="975" height="489" alt="image" src="https://github.com/user-attachments/assets/507b47b0-95a2-4527-9e20-0c4664eb48e0" />
+
+2. Select Auth method as ```AppRole``` and click on save without making changes. Ensure the path is ```approle```.
+<img width="975" height="764" alt="image" src="https://github.com/user-attachments/assets/ad52b984-6882-449b-9c32-8312b85b53ed" />
+<img width="975" height="454" alt="image" src="https://github.com/user-attachments/assets/5f705c1d-092d-420c-b443-a7d3352b92da" />
+
 3. Navigate to ```ACL policies```. Edit and replace the with below code.
+<img width="975" height="296" alt="image" src="https://github.com/user-attachments/assets/fae7861b-5dd2-4e22-b18f-d26deddff642" />
+```text
+# MLflow boot-wrapper policy -- narrow KV access.
+path "secret/data/mlflow" {
+  capabilities = ["create", "update","read"]
+}
+```
+
 4. Open the Visual Studio Terminal and run the command: ```tail /var/log/mlflow-wrapper.log```. You should see below output.
+<img width="975" height="678" alt="image" src="https://github.com/user-attachments/assets/c22ca1f5-1ed2-417c-b8ce-afaa4b265826" />
+
 5. Run below code to create Approle role.
 ```text
 export VAULT_ADDR=http://127.0.0.1:8200
@@ -38,5 +53,9 @@ vault write auth/approle/role/mlflow \
 ```text
 vault read auth/approle/role/mlflow
 ```
+<img width="975" height="748" alt="image" src="https://github.com/user-attachments/assets/7014ea9d-3936-4fa4-89f2-3dc5886e512b" />
+
 7. Run the command: ```tail /var/log/mlflow-wrapper.log``` and you should approle created with below output.
+<img width="975" height="480" alt="image" src="https://github.com/user-attachments/assets/285e3411-2b26-4989-b369-6239690048ac" />
+
 8. Click MLflow UI and you should see mlflow landing page.
