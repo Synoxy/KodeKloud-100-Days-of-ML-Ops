@@ -26,6 +26,7 @@ Your task is to correct the mlflow-reader policy to ensure it provides read acce
 
 3. Navigate to ```ACL policies```. Edit and replace the with below code.
 <img width="975" height="296" alt="image" src="https://github.com/user-attachments/assets/fae7861b-5dd2-4e22-b18f-d26deddff642" />
+
 ```text
 # MLflow boot-wrapper policy -- narrow KV access.
 path "secret/data/mlflow" {
