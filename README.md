@@ -57,6 +57,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 42 - Define a Feast Feature View (Entity + Field Schema).md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/d6aae7d4c2a2bc8b26fccba69f7ad69412d42a92/Day%2042%20-%20Define%20a%20Feast%20Feature%20View%20(Entity%20+%20Field%20Schema).md)
 - [Day 43 - Materialize Features and Read Them from the Online Store.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f97bf742dc2a8ed0b985222defee7138fc8540a7/Day%2043%20-%20Materialize%20Features%20and%20Read%20Them%20from%20the%20Online%20Store.md)
 - [Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/951969bdaa6371646465ae5a6d89a90e9aa96d6e/Day%2044%20-%20Store%20MLflow's%20Admin%20Password%20in%20HashiCorp%20Vault.md)
+- [Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/27cdf826600444a38634669fcf6f60092a045322/Day%2045%20-%20Authenticate%20MLflow%20to%20Vault%20via%20AppRole%20and%20Fix%20Its%20KV%20Policy.md)
 
 🚧 More days coming soon...
 
@@ -82,4 +83,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 44 / 100 Completed
+📈 Progress: Day 45 / 100 Completed
