@@ -58,6 +58,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 43 - Materialize Features and Read Them from the Online Store.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f97bf742dc2a8ed0b985222defee7138fc8540a7/Day%2043%20-%20Materialize%20Features%20and%20Read%20Them%20from%20the%20Online%20Store.md)
 - [Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/951969bdaa6371646465ae5a6d89a90e9aa96d6e/Day%2044%20-%20Store%20MLflow's%20Admin%20Password%20in%20HashiCorp%20Vault.md)
 - [Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/27cdf826600444a38634669fcf6f60092a045322/Day%2045%20-%20Authenticate%20MLflow%20to%20Vault%20via%20AppRole%20and%20Fix%20Its%20KV%20Policy.md)
+- [Day 46 - Author Data-Quality Expectations with Great Expectations.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/165349175434a324a11018ee2b8b71eb880eda4a/Day%2046%20-%20Author%20Data-Quality%20Expectations%20with%20Great%20Expectations.md)
 
 🚧 More days coming soon...
 
@@ -83,4 +84,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 45 / 100 Completed
+📈 Progress: Day 46 / 100 Completed
