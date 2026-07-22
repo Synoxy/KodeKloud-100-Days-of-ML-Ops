@@ -20,6 +20,11 @@ To see the failure, re-run the checkpoint and read its output:
    - The most recent validation JSON under gx/uncommitted/validations/ for checkpoint drift_check reports success: true.
 
 🛠️ **Solution:**
-1. Run: ```python3 /root/code/dataquality/fix_drift.py``` and open the Data Docs.
-2. In Data Docs page nagivate to the failed validation and check what failed.
-3. Remove the negative values from transaction_drifted.csv and run ```python3 /root/code/dataquality/fix_drift.py``` again.
+1. Run: ```python3 /root/code/dataquality/fix_drift.py```.
+2. open fix_drift.py and update the code as below for amount:
+```text
+suite.add_expectation(
+        ge.ExpectColumnValuesToBeBetween(column="amount", min_value=-5000)
+    )
+```
+3. Run ```python3 /root/code/dataquality/fix_drift.py``` again.
