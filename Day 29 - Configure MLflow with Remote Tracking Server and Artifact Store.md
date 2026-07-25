@@ -34,7 +34,7 @@ PostgreSQL listens on port 5432 with a binary protocol — it is not reachable f
 bash /root/code/restart-mlflow.sh
 ```
 ```text
-python3 /root/code/log_test_run.py 
+python3 /root/code/log_test_run.py
 ```
 3. Open Seaweed UI and navigate to **/buckets/mlflow-artifacts/** and you should see a folder inside.
 <img width="1536" height="377" alt="image" src="https://github.com/user-attachments/assets/4407edf5-f157-440f-87e2-9691bbca1ca0" />

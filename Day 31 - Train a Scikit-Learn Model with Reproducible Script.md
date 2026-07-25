@@ -23,5 +23,5 @@ The trainer uses a small registry of supported estimators—RandomForestClassifi
    - **type**: RandomForestClassifier
    - **data target_column**: is_fraud
    - **Output model_path**: /root/code/fraud-detection/models/model.pkl
-2. Run: ```python3 /root/code/fraud-detection/src/models/train.py``` and you should see below output. 
+2. Run: ```python3 /root/code/fraud-detection/src/models/train.py``` and you should see below output.  
 <img width="1216" height="816" alt="image" src="https://github.com/user-attachments/assets/04d153f5-2b78-4996-9bd4-42a495ab8992" />

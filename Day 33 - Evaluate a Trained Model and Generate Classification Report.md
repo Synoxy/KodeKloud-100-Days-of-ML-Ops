@@ -36,6 +36,6 @@ metrics = {
     "auc_roc": round(roc_auc_score(y, proba), 6),
 }
 ```
-3. Navigate to /fraud-detection/src/models/ and run ```python evaluate.py```.
+3. Navigate to /fraud-detection/src/models/ and run ```python evaluate.py```. 
 4. Verify in Mlflow UI, it should have both the files in Artifacts.
 <img width="1141" height="638" alt="image" src="https://github.com/user-attachments/assets/79b8a24b-eb99-4704-a8e9-b3b782770bbf" />

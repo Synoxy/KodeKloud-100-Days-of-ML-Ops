@@ -26,7 +26,7 @@ mlflow models serve -m "models:/fraud-detector-v2@champion" --env-manager=local 
 ```
 <img width="1125" height="856" alt="image" src="https://github.com/user-attachments/assets/cd2f7d77-f857-40af-bdbc-fb49a30429e4" />
 
-3. Create **monitor.sh** and run it. 
+3. Create **monitor.sh** and run it.  
 ```text
 #!/bin/bash
 set -u

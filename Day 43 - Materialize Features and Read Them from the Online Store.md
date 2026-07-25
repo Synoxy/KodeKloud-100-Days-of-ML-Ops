@@ -30,7 +30,7 @@ result = store.get_online_features(
        "customer_transaction_features:hour",
        "customer_transaction_features:num_tx_past_day",
    ],
-   entity_rows=[{"customer_id": i} for i in range(1, 6)]
+   entity_rows=[{"customer_id": i} for i in range(1, 6)] 
 ).to_dict()
 ```
 3. Run ```./materialize.sh``` followed by ```python3 fetch_features.py```.

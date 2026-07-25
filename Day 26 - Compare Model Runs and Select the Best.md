@@ -8,7 +8,7 @@ A xFusionCorp Industries data scientist has trained three candidate models on th
   - Neither of the other two runs may carry a production-candidate tag.
 The result can be confirmed in the MLflow UI: the model-comparison experiment lists three runs, and only the top-f1_score run shows the production-candidate tag on its detail page.
 
-🛠️ **Solution:**
+🛠️ **Solution:** 
 1. Open MLflow UI and navigate to Training runs.
 <img width="1125" height="272" alt="image" src="https://github.com/user-attachments/assets/228846da-e157-41ab-9584-f0a899f3c573" />
 

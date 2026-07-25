@@ -25,7 +25,7 @@ To see the failure, re-run the checkpoint and read its output:
 ```text
 suite.add_expectation(
         ge.ExpectColumnValuesToBeBetween(column="amount", min_value=-5000)
-    )
+    ) 
 ```
 3. Run ```python3 /root/code/dataquality/fix_drift.py``` again.
 <img width="975" height="676" alt="image" src="https://github.com/user-attachments/assets/0c8dec2a-15c7-4677-8644-bb4db68b07f6" />

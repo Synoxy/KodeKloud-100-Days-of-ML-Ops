@@ -14,7 +14,7 @@ Your task is to correct the mlflow-reader policy to ensure it provides read acce
    - The policy's rules grant read on the KV v2 data path secret/data/mlflow (a path "secret/data/mlflow" block whose capabilities list contains read).
    - The AppRole auth method is enabled — GET /v1/sys/auth shows approle/.
    - An mlflow AppRole role exists whose token_policies include mlflow-reader — GET /v1/auth/approle/role/mlflow.
-   - http://localhost:5000/ answers 200.
+   - http://localhost:5000/ answers 200. 
 
 🛠️ **Solution:**
 1. Open the Vault using the token provided.Navigate to ```Access Control``` --> ```Authentication Methods``` and click on ```Enable New Method```.

@@ -36,5 +36,5 @@ aggregate = {
     "folds": fold_results,
 }
 ```
-2. Run: ```python cross_validate.py``` and you shold see below details.
+2. Run: ```python cross_validate.py``` and you shold see below details. 
 <img width="1072" height="815" alt="image" src="https://github.com/user-attachments/assets/92bc56cf-78fc-41bf-b35f-ec72b82d1e5a" />

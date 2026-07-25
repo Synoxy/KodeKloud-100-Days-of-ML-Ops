@@ -41,7 +41,7 @@ entry_points:
         default: 0.2
       random_seed:
         type: int
-        default: 42
+        default: 42 
     command: >
       python train.py
       --n_estimators {n_estimators}

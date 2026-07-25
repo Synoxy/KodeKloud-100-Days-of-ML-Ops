@@ -9,7 +9,7 @@ The xFusionCorp Industries ML platform team requires that all credentials necess
    - A KV v2 secrets engine is enabled at path secret/ — GET /v1/sys/mounts returns secret/ with type: kv and options.version: "2".
    - The secret at path secret/mlflow carries a non-empty admin_password key — GET /v1/secret/data/mlflow (with the root token) returns a JSON body whose data.data.admin_password is a non-empty string.
    - GET http://localhost:5000/ answers 200 – MLflow is running because the wrapper found the password.
-   - Running services should not know their own secrets at image-build time. A Vault-first pattern lets you rotate a credential in Vault and restart the consumer to pick up the new value—no rebuild, no config patch, no secret in the commit history. This task's single-service wrapper is the minimum viable version of that pattern; a real deployment replaces the root token with an AppRole login and adds audit logging.
+   - Running services should not know their own secrets at image-build time. A Vault-first pattern lets you rotate a credential in Vault and restart the consumer to pick up the new value—no rebuild, no config patch, no secret in the commit history. This task's single-service wrapper is the minimum viable version of that pattern; a real deployment replaces the root token with an AppRole login and adds audit logging. 
 
 🛠️ **Solution:**
 1. Open the ```vault UI``` from the terminal and use the token from ```vault-token``` file to login.
