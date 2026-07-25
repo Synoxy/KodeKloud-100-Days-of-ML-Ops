@@ -22,7 +22,7 @@ jobs:
       - name: Detect file and Permalinks
         run: | 
           echo "Checking push events"
-          FILES=$(git diff --name-only --diff-filter=A ${{ github.event.before }} ${{ github.event.after }})
+          FILES=$(git diff --name-only --diff-filter=AM ${{ github.event.before }} ${{ github.event.after }})
           README_UPDATED=false
           if [ -z "$FILES" ]; then
             echo "No newly added files found in this push."

@@ -21,7 +21,7 @@ The xFusionCorp Industries ML platform team is preparing to cut their first end-
 1. Open the vault using the vault-token and create the secret with the path: ```mlflow``` and key: ```mlflow_password```.
 <img width="975" height="338" alt="image" src="https://github.com/user-attachments/assets/1a3d9607-61ce-49cb-9c2e-a3f2c823855a" />
 
-2. Open the ```.gitea/workflows/production.yml``` file and update the TODO for fetch-secret job.
+2. Open the ```.gitea/workflows/production.yml``` file and update the TODO for fetch-secret job. 
 ```text
 VAULT_TOKEN=$(cat /root/code/vault-token)
 echo "$VAULT_TOKEN"
