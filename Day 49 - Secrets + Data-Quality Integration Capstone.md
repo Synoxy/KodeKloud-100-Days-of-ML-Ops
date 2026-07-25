@@ -19,7 +19,31 @@ The xFusionCorp Industries ML platform team is preparing to cut their first end-
 
 🛠️ **Solution:**
 1. Open the vault using the vault-token and create the secret with the path: ```mlflow``` and key: ```mlflow_password```.
+<img width="975" height="338" alt="image" src="https://github.com/user-attachments/assets/1a3d9607-61ce-49cb-9c2e-a3f2c823855a" />
+
 2. Open the ```.gitea/workflows/production.yml``` file and update the TODO for fetch-secret job.
+```text
+VAULT_TOKEN=$(cat /root/code/vault-token)
+echo "$VAULT_TOKEN"
+
+PASS=$(curl -s \
+  "$VAULT_ADDR/v1/secret/data/mlflow" \
+  -H "accept: application/json" \
+  -H "X-Vault-Token: $VAULT_TOKEN" \
+  | jq -r '.data.data.mlflow_password')
+
+if [ -z "$PASS" ]; then
+  echo "::error::Missing mlflow_password in Vault secret — release blocked"
+  exit 1
+else
+  echo "::notice::Fetched mlflow_password (length ${#PASS})"
+fi
+```
 3. Push the changes to git repo: ```fraud-detector``` and login to Gitea.
+<img width="975" height="812" alt="image" src="https://github.com/user-attachments/assets/ea83e85e-e38c-426b-b9cf-c636b0fcaef2" />
+
 4. Create a new pull request and then merge the request. Click on Actions and verify all 3 stages have been executed successfully.
+<img width="975" height="352" alt="image" src="https://github.com/user-attachments/assets/9fa5e4d9-d3c9-4670-bb40-e5cb48c2f93b" />
+
 5. Open the Mlflow UI and add the alias in the ```fraud-detector``` model. Refer `Day 25 - Register, Version, and Manage Model Lifecycle.md`
+<img width="975" height="336" alt="image" src="https://github.com/user-attachments/assets/3210af0a-b5c7-4a4e-bb3f-829520c90b0a" />
