@@ -76,6 +76,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2044%20-%20Store%20MLflow's%20Admin%20Password%20in%20HashiCorp%20Vault.md)
 - [Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2045%20-%20Authenticate%20MLflow%20to%20Vault%20via%20AppRole%20and%20Fix%20Its%20KV%20Policy.md)
 - [Day 47- Debug a Failing Great Expectations Checkpoint.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2047-%20Debug%20a%20Failing%20Great%20Expectations%20Checkpoint.md)
+- [Day 49 - Secrets + Data-Quality Integration Capstone.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/5dca366dfd38d5118184e0d803af2778b6e1e9c6/Day%2049%20-%20Secrets%20+%20Data-Quality%20Integration%20Capstone.md)
 
 🚧 More days coming soon...
 
@@ -101,4 +102,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 47 / 100 Completed
+📈 Progress: Day 49 / 100 Completed
