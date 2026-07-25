@@ -61,6 +61,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 46 - Author Data-Quality Expectations with Great Expectations.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/165349175434a324a11018ee2b8b71eb880eda4a/Day%2046%20-%20Author%20Data-Quality%20Expectations%20with%20Great%20Expectations.md)
 - [Day 47- Debug a Failing Great Expectations Checkpoint.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/2d4662b888f8153bbc480bd54184f16122675cbb/Day%2047-%20Debug%20a%20Failing%20Great%20Expectations%20Checkpoint.md)
 - [Day 48 - Enforce a Data-Quality Checkpoint as a Blocking CI Gate.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/b3feb6aa496ec43a6eb517616acde7b672805b60/Day%2048%20-%20Enforce%20a%20Data-Quality%20Checkpoint%20as%20a%20Blocking%20CI%20Gate.md)
+- [Day 49 - Secrets + Data-Quality Integration Capstone.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/c3f2d8199d3bcef3468bbe7f47e352a48a71be98/Day%2049%20-%20Secrets%20+%20Data-Quality%20Integration%20Capstone.md)
 
 🚧 More days coming soon...
 
@@ -86,4 +87,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 48 / 100 Completed
+📈 Progress: Day 49 / 100 Completed
