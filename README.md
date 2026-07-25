@@ -63,6 +63,19 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 48 - Enforce a Data-Quality Checkpoint as a Blocking CI Gate.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/b3feb6aa496ec43a6eb517616acde7b672805b60/Day%2048%20-%20Enforce%20a%20Data-Quality%20Checkpoint%20as%20a%20Blocking%20CI%20Gate.md)
 - [Day 49 - Secrets + Data-Quality Integration Capstone.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/c3f2d8199d3bcef3468bbe7f47e352a48a71be98/Day%2049%20-%20Secrets%20+%20Data-Quality%20Integration%20Capstone.md)
 - [Day 49 - Secrets + Data-Quality Integration Capstone.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/473a342be03a4ef75b9ea221914cbe87ad5785fa/Day%2049%20-%20Secrets%20+%20Data-Quality%20Integration%20Capstone.md)
+- [Day 26 - Compare Model Runs and Select the Best.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2026%20-%20Compare%20Model%20Runs%20and%20Select%20the%20Best.md)
+- [Day 27 - Load Model from Registry with Custom Preprocessing.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2027%20-%20Load%20Model%20from%20Registry%20with%20Custom%20Preprocessing.md)
+- [Day 28 - Fix a Broken MLflow Project and Re-Run It.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2028%20-%20Fix%20a%20Broken%20MLflow%20Project%20and%20Re-Run%20It.md)
+- [Day 29 - Configure MLflow with Remote Tracking Server and Artifact Store.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2029%20-%20Configure%20MLflow%20with%20Remote%20Tracking%20Server%20and%20Artifact%20Store.md)
+- [Day 30 - End-to-End MLflow Lifecycle - Train, Register, Serve, Monitor.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2030%20-%20End-to-End%20MLflow%20Lifecycle%20-%20Train,%20Register,%20Serve,%20Monitor.md)
+- [Day 31 - Train a Scikit-Learn Model with Reproducible Script.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2031%20-%20Train%20a%20Scikit-Learn%20Model%20with%20Reproducible%20Script.md)
+- [Day 32 - Manage Training Configuration with YAML.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2032%20-%20Manage%20Training%20Configuration%20with%20YAML.md)
+- [Day 33 - Evaluate a Trained Model and Generate Classification Report.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2033%20-%20Evaluate%20a%20Trained%20Model%20and%20Generate%20Classification%20Report.md)
+- [Day 34 - Implement Cross-Validation for Model Selection.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2034%20-%20Implement%20Cross-Validation%20for%20Model%20Selection.md)
+- [Day 43 - Materialize Features and Read Them from the Online Store.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2043%20-%20Materialize%20Features%20and%20Read%20Them%20from%20the%20Online%20Store.md)
+- [Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2044%20-%20Store%20MLflow's%20Admin%20Password%20in%20HashiCorp%20Vault.md)
+- [Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2045%20-%20Authenticate%20MLflow%20to%20Vault%20via%20AppRole%20and%20Fix%20Its%20KV%20Policy.md)
+- [Day 47- Debug a Failing Great Expectations Checkpoint.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/191ffe91516ff64f00e9b694013a7633a4965c35/Day%2047-%20Debug%20a%20Failing%20Great%20Expectations%20Checkpoint.md)
 
 🚧 More days coming soon...
 
@@ -88,4 +101,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 49 / 100 Completed
+📈 Progress: Day 47 / 100 Completed
