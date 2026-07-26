@@ -37,4 +37,5 @@ docker images
 docker run --rm ml-trainer:v1 python3 -c "import sklearn, pandas, numpy, joblib; print('OK')"
 ```
 ```Output:```
+
 <img width="861" height="186" alt="image" src="https://github.com/user-attachments/assets/22cdb74a-986e-4ced-b7d7-5e6287f12ad4" />
