@@ -40,8 +40,13 @@ docker build -t ml-serve:v1 .
 ```text
 docker images
 ```
+<img width="975" height="746" alt="image" src="https://github.com/user-attachments/assets/76bcfdad-fc64-4c7e-8d35-8fd6a1699faf" />
+
 3. Run the container using the built image.
 ```text
 docker run --rm -p 8090:8080 ml-serve:v1
 ```
+<img width="970" height="259" alt="image" src="https://github.com/user-attachments/assets/5f792ac6-1141-4f87-872d-3493886f9dad" />
+
 4. Open another terminal and run the below curl command, you should see ```{"status":"ok"}```
+<img width="975" height="186" alt="image" src="https://github.com/user-attachments/assets/da41c117-11e1-4b91-83f2-00848c8e706b" />
