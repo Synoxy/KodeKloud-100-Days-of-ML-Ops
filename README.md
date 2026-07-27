@@ -64,6 +64,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 49 - Secrets + Data-Quality Integration Capstone.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/5dca366dfd38d5118184e0d803af2778b6e1e9c6/Day%2049%20-%20Secrets%20+%20Data-Quality%20Integration%20Capstone.md)
 - [Day 50 - Create Docker Image for ML Training Environment.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/4343ee4b2ae16aff2d5dc2cb9532f4f9a9419d6a/Day%2050%20-%20Create%20Docker%20Image%20for%20ML%20Training%20Environment.md)
 - [Day 51 - Create Multi-Stage Docker Build for ML Serving.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/bb60eb868b67445531feeb8b826827aad1b5a179/Day%2051%20-%20Create%20Multi-Stage%20Docker%20Build%20for%20ML%20Serving.md)
+- [Day 51 - Create Multi-Stage Docker Build for ML Serving.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7cf5ce300c025461b236c9a72dc036938de75d5b/Day%2051%20-%20Create%20Multi-Stage%20Docker%20Build%20for%20ML%20Serving.md)
 
 🚧 More days coming soon...
 
