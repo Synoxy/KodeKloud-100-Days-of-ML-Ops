@@ -63,6 +63,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 48 - Enforce a Data-Quality Checkpoint as a Blocking CI Gate.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/b3feb6aa496ec43a6eb517616acde7b672805b60/Day%2048%20-%20Enforce%20a%20Data-Quality%20Checkpoint%20as%20a%20Blocking%20CI%20Gate.md)
 - [Day 49 - Secrets + Data-Quality Integration Capstone.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/5dca366dfd38d5118184e0d803af2778b6e1e9c6/Day%2049%20-%20Secrets%20+%20Data-Quality%20Integration%20Capstone.md)
 - [Day 50 - Create Docker Image for ML Training Environment.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/4343ee4b2ae16aff2d5dc2cb9532f4f9a9419d6a/Day%2050%20-%20Create%20Docker%20Image%20for%20ML%20Training%20Environment.md)
+- [Day 51 - Create Multi-Stage Docker Build for ML Serving.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/bb60eb868b67445531feeb8b826827aad1b5a179/Day%2051%20-%20Create%20Multi-Stage%20Docker%20Build%20for%20ML%20Serving.md)
 
 🚧 More days coming soon...
 
@@ -88,4 +89,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 50 / 100 Completed
+📈 Progress: Day 51 / 100 Completed
