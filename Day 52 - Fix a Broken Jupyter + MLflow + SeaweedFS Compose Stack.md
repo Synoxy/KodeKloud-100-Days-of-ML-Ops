@@ -32,17 +32,26 @@ ports:
 ```text
 docker compose -f /root/code/ml-dev/docker-compose.yml up -d
 ```
+<img width="975" height="215" alt="image" src="https://github.com/user-attachments/assets/9fd8c87c-ed00-4d43-a457-f573bd669afe" />
+
 4. Verify services are up and ready
 ```text
 docker compose -f /root/code/ml-dev/docker-compose.yml
 ```
+<img width="975" height="188" alt="image" src="https://github.com/user-attachments/assets/5ba95ad1-c096-4b0f-8e0c-a11e32dd60df" />
+
 5. Make below curl commands for each service and verify the result as stated in end state.
 ```text
 curl -i http://localhost:8888/
 ```
+<img width="786" height="214" alt="image" src="https://github.com/user-attachments/assets/dec5bb81-7bf6-44d8-a9b7-a20cce99d781" />
+
 ```text
 curl -i http://localhost:5000/
 ```
+<img width="759" height="447" alt="image" src="https://github.com/user-attachments/assets/03e0c727-2a38-4601-a10f-94874123ca32" />
+
 ```text
 curl -i http://localhost:9001/
 ```
+<img width="781" height="208" alt="image" src="https://github.com/user-attachments/assets/7c4771d5-6169-40a6-abb3-9171301dee50" />
