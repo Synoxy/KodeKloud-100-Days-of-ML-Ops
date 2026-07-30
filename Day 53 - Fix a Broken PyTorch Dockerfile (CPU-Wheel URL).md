@@ -31,3 +31,4 @@ docker build -t dl-trainer:v1 .
 ```text
 docker run --rm dl-trainer:v1
 ```
+<img width="768" height="131" alt="image" src="https://github.com/user-attachments/assets/a1d27513-129b-43b5-b494-62d692ab9ff4" />
