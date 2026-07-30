@@ -65,7 +65,6 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 50 - Create Docker Image for ML Training Environment.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/4343ee4b2ae16aff2d5dc2cb9532f4f9a9419d6a/Day%2050%20-%20Create%20Docker%20Image%20for%20ML%20Training%20Environment.md)
 - [Day 51 - Create Multi-Stage Docker Build for ML Serving.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7cf5ce300c025461b236c9a72dc036938de75d5b/Day%2051%20-%20Create%20Multi-Stage%20Docker%20Build%20for%20ML%20Serving.md)
 - [Day 52 - Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f27d42e9f6608f3a87fe0a99a5da5cc4321c92ec/Day%2052%20-%20Fix%20a%20Broken%20Jupyter%20+%20MLflow%20+%20SeaweedFS%20Compose%20Stack.md)
-- [Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/cc5fad0743249ab85106255126cf1fe691548d61/Day%2053%20-%20Fix%20a%20Broken%20PyTorch%20Dockerfile%20(CPU-Wheel%20URL).md)
 - [Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7e2aca6097324dc3f31ea5e3b167ccdf0bcc2076/Day%2053%20-%20Fix%20a%20Broken%20PyTorch%20Dockerfile%20(CPU-Wheel%20URL).md)
 
 🚧 More days coming soon...
