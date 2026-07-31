@@ -67,6 +67,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 52 - Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f27d42e9f6608f3a87fe0a99a5da5cc4321c92ec/Day%2052%20-%20Fix%20a%20Broken%20Jupyter%20+%20MLflow%20+%20SeaweedFS%20Compose%20Stack.md)
 - [Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7e2aca6097324dc3f31ea5e3b167ccdf0bcc2076/Day%2053%20-%20Fix%20a%20Broken%20PyTorch%20Dockerfile%20(CPU-Wheel%20URL).md)
 - [Day 54 - Push ML Model Images to Container Registry.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/a3a7a6df2b70a93d600f0a52b96ecbf388e80e73/Day%2054%20-%20Push%20ML%20Model%20Images%20to%20Container%20Registry.md)
+- [Day 54 - Push ML Model Images to Container Registry.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/2d25e4d5e026d17a538c4766d476b0decf7d6c55/Day%2054%20-%20Push%20ML%20Model%20Images%20to%20Container%20Registry.md)
 
 🚧 More days coming soon...
 
