@@ -27,3 +27,4 @@ curl -s http://localhost:5555/v2/_catalog
 ```text
 curl -s http://localhost:5555/v2/fraud-detector/tags/list
 ```
+<img width="898" height="314" alt="image" src="https://github.com/user-attachments/assets/8d951673-9e0d-4079-b8ab-f859371d8129" />
