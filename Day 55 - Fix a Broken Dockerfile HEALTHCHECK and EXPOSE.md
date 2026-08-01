@@ -30,6 +30,8 @@ docker build -t "ml-health:v1" .
 ```text
 docker run -d -p 8085:8085 --name ml-health-api ml-health:v1
 ```
+<img width="975" height="151" alt="image" src="https://github.com/user-attachments/assets/97bdb0a9-5847-4805-a712-d8eab3341cbd" />
+
 4. Verify the end state:
    - Inspect health 
    ```text
@@ -39,3 +41,4 @@ docker run -d -p 8085:8085 --name ml-health-api ml-health:v1
    ```text
    docker inspect --format '{{.Config.ExposedPorts}}' ml-health:v1
    ```
+<img width="975" height="102" alt="image" src="https://github.com/user-attachments/assets/b0385cd2-ceb1-44c1-97b5-298a4f820dd5" />
