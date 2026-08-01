@@ -68,6 +68,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7e2aca6097324dc3f31ea5e3b167ccdf0bcc2076/Day%2053%20-%20Fix%20a%20Broken%20PyTorch%20Dockerfile%20(CPU-Wheel%20URL).md)
 - [Day 54 - Push ML Model Images to Container Registry.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/ef8977897e8e24b01ad0a4ae431e967d81807070/Day%2054%20-%20Push%20ML%20Model%20Images%20to%20Container%20Registry.md)
 - [Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/408a881a1d18fef2a007e835e550c1c97faf3e22/Day%2055%20-%20Fix%20a%20Broken%20Dockerfile%20HEALTHCHECK%20and%20EXPOSE.md)
+- [Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/fb95aa6ec28b389bf8487be8568475d723b87e9c/Day%2055%20-%20Fix%20a%20Broken%20Dockerfile%20HEALTHCHECK%20and%20EXPOSE.md)
 
 🚧 More days coming soon...
 
