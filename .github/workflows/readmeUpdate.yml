@@ -33,9 +33,10 @@ jobs:
                 ENCODED_FILE=$(echo "$file" | sed 's/ /%20/g')
                 PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$ENCODED_FILE"
                 NEW_LINK="- [$file]($PERMALINK)"
-                echo "$NEW_LINK"
+                echo "NEW LINK: $NEW_LINK"
                 OLD_LINK=$(grep "$file" README.md)
-                echo "$OLD_LINK"
+                echo "OLD LINK: $OLD_LINK"
+                sed -i "s|$OLD_LINK|$NEW_LINK|g" README.md 
                 README_UPDATED=true
                 echo "✅ README.md updated with new file: $file"
                 echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
