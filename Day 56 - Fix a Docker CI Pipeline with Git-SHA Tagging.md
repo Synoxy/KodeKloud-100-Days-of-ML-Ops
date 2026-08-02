@@ -32,4 +32,5 @@ The xFusionCorp Industries ML platform team operates a shell-based Docker CI pip
    ```
    ```text
    curl http://localhost:5555/v2/ml-ci-app/tags/list
-   ``` 
+   ```
+   <img width="765" height="170" alt="image" src="https://github.com/user-attachments/assets/7453d649-b7d0-4817-8792-a19740ccc506" />
