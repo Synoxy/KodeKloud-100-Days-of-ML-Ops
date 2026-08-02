@@ -34,7 +34,8 @@ jobs:
                 PERMALINK="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/$ENCODED_FILE"
                 NEW_LINK="- [$file]($PERMALINK)"
                 echo "$NEW_LINK"
-                $t = grep "$file" 
+                $t=grep "$file" 
+                echo $t
                 README_UPDATED=true
                 echo "✅ README.md updated with new file: $file"
                 echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
