@@ -68,7 +68,6 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7e2aca6097324dc3f31ea5e3b167ccdf0bcc2076/Day%2053%20-%20Fix%20a%20Broken%20PyTorch%20Dockerfile%20(CPU-Wheel%20URL).md)
 - [Day 54 - Push ML Model Images to Container Registry.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/ef8977897e8e24b01ad0a4ae431e967d81807070/Day%2054%20-%20Push%20ML%20Model%20Images%20to%20Container%20Registry.md)
 - [Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/fb95aa6ec28b389bf8487be8568475d723b87e9c/Day%2055%20-%20Fix%20a%20Broken%20Dockerfile%20HEALTHCHECK%20and%20EXPOSE.md)
-- [Day 56 - Fix a Docker CI Pipeline with Git-SHA Tagging.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/f46d0cb82f895dabbfc0c992df0f873f51dfbd26/Day%2056%20-%20Fix%20a%20Docker%20CI%20Pipeline%20with%20Git-SHA%20Tagging.md)
 - [Day 56 - Fix a Docker CI Pipeline with Git-SHA Tagging.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7fc5da9823dd45d21d9d92db164a4bf5b5629f92/Day%2056%20-%20Fix%20a%20Docker%20CI%20Pipeline%20with%20Git-SHA%20Tagging.md)
 
 🚧 More days coming soon...
