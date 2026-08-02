@@ -26,7 +26,7 @@ The xFusionCorp Industries ML platform team operates a shell-based Docker CI pip
    - In stage 3 update the variable ```GIT_SHA``` to ```SHA```
 
 2. Build the image(run ./build.sh in Terminal)
-3. Run below commands and verify the tags
+3. Run below commands and verify the tags - 08
    ```text
    curl http://localhost:5555/v2/_catalog
    ```
