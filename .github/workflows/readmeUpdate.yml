@@ -42,6 +42,7 @@ jobs:
                 echo "No newly added or updated Day markdown files found in this push."
                 exit 0
               fi
+            done
           else
             echo "🚀 NEWLY ADDED FILES DETECTED:"
             echo "$FILES"
