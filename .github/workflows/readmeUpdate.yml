@@ -38,10 +38,10 @@ jobs:
                 README_UPDATED=true
                 echo "✅ README.md updated with new file: $file"
                 echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
-            else
-              echo "No newly added or updated Day markdown files found in this push."
-              exit 0
-            fi
+              else
+                echo "No newly added or updated Day markdown files found in this push."
+                exit 0
+              fi
           else
             echo "🚀 NEWLY ADDED FILES DETECTED:"
             echo "$FILES"
