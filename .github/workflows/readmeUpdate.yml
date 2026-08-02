@@ -36,7 +36,8 @@ jobs:
                 echo "NEW LINK: $NEW_LINK"
                 OLD_LINK=$(grep "$file" README.md)
                 echo "OLD LINK: $OLD_LINK"
-                sed -i "s|$OLD_LINK|$NEW_LINK|g" README.md 
+                OLD_LINK_ESCAPED=$(echo "$OLD_LINK" | sed 's/\[/\\[/g; s/\]/\\]/g')
+                sed -i "s|$OLD_LINK_ESCAPED|$NEW_LINK|g" README.md
                 README_UPDATED=true
                 echo "✅ README.md updated with new file: $file"
                 echo "README_UPDATED=$README_UPDATED" >> $GITHUB_ENV
