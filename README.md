@@ -69,6 +69,7 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 54 - Push ML Model Images to Container Registry.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/ef8977897e8e24b01ad0a4ae431e967d81807070/Day%2054%20-%20Push%20ML%20Model%20Images%20to%20Container%20Registry.md)
 - [Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/fb95aa6ec28b389bf8487be8568475d723b87e9c/Day%2055%20-%20Fix%20a%20Broken%20Dockerfile%20HEALTHCHECK%20and%20EXPOSE.md)
 - [Day 56 - Fix a Docker CI Pipeline with Git-SHA Tagging.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/8437609c0b163427b91a5a2e29582b52892817af/Day%2056%20-%20Fix%20a%20Docker%20CI%20Pipeline%20with%20Git-SHA%20Tagging.md)
+- [Day 100 - Github Runner Test.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/7b0ef868b07213b9a85fc1d1a8c84defb710cda4/Day%20100%20-%20Github%20Runner%20Test.md)
 
 🚧 More days coming soon...
 
@@ -94,4 +95,4 @@ If you found this repository helpful:
 Suggestions, corrections, and improvements are always welcome.
 Feel free to open an Issue or submit a Pull Request.
 
-📈 Progress: Day 56 / 100 Completed
+📈 Progress: Day 100 / 100 Completed
