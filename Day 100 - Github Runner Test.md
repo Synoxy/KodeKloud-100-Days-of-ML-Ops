@@ -1,0 +1,1 @@
+Testing the github action self hosted runners - using Azure VM
