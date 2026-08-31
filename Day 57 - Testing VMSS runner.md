@@ -1,1 +1,0 @@
-Testing VMSS github runners. It finally works after 2 days.
