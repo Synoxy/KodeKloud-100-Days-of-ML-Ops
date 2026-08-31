@@ -69,7 +69,6 @@ This repository serves as a learning journal and reference guide covering the fu
 - [Day 54 - Push ML Model Images to Container Registry.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/ef8977897e8e24b01ad0a4ae431e967d81807070/Day%2054%20-%20Push%20ML%20Model%20Images%20to%20Container%20Registry.md)
 - [Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/fb95aa6ec28b389bf8487be8568475d723b87e9c/Day%2055%20-%20Fix%20a%20Broken%20Dockerfile%20HEALTHCHECK%20and%20EXPOSE.md)
 - [Day 56 - Fix a Docker CI Pipeline with Git-SHA Tagging.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/8437609c0b163427b91a5a2e29582b52892817af/Day%2056%20-%20Fix%20a%20Docker%20CI%20Pipeline%20with%20Git-SHA%20Tagging.md)
-- [Day 57 - Testing VMSS runner.md](https://github.com/Synoxy/KodeKloud-100-Days-of-ML-Ops/blob/49c59f498a672debb132d04b0d2bd147d570f5de/Day%2057%20-%20Testing%20VMSS%20runner.md)
 
 🚧 More days coming soon...
 
