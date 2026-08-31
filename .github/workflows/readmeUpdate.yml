@@ -11,7 +11,7 @@ permissions:
   contents: write
 jobs:
   detect-files:
-    runs-on: [self-hosted,ml-ops]
+    runs-on: [self-hosted,ml-ops,cpu]
     steps:
     #1 Checkout repository with full history so that git diff can detect newly added files.
       - name: Checkout Repository
