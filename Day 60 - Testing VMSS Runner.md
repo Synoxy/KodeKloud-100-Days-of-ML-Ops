@@ -1,1 +1,0 @@
-Using PAT to generate token inside script and attaching the runners to the repo.
